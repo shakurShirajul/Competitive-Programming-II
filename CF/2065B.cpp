@@ -20,7 +20,6 @@ int main()
                 break;
             }
         }
-        // cout<<flag<<endl;
         if (flag)
         {
             cout << 1 << endl;
